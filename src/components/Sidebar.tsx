@@ -1,4 +1,4 @@
-import { ArrowsInCardinal, CaretDoubleLeft, Gear, GearSix, IconContext, Queue, ShoppingCartSimple, SignIn, SignOut, SimCard, SlackLogo, Stack, XCircle } from 'phosphor-react';
+import { CaretDoubleLeft, GearSix, ShoppingCartSimple, SignOut, Stack } from 'phosphor-react';
 import React, { useState, useMemo } from 'react';
 import {  Link } from 'react-router-dom';
 type menuItems = {
